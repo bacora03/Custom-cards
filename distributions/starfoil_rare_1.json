@@ -1,0 +1,14 @@
+{
+    "name": "starfoil_rare_1",
+        "array":[
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Starfoil Rare",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+}

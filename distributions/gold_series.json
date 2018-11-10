@@ -1,0 +1,18 @@
+{
+    "name": "gold_series",
+        "array":[
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Rare",
+                        "count":9
+                    },
+                    {
+                        "rarity":"Secret Rare",
+                        "count":6
+                    }
+                ]
+            }
+        ]
+}

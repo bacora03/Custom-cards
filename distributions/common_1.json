@@ -1,0 +1,14 @@
+{
+    "name": "common_1",
+        "array":[
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "booster_pack",
+        "array":[
+            {
+                "weight":9,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":7
+                    },
+                    {
+                        "rarity":"Rare",
+                        "count":1
+                    },
+                    {
+                        "rarity":"Super Rare",
+                        "count":1
+                    }
+                ]
+            },
+            {
+                "weight":2,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":7
+                    },
+                    {
+                        "rarity":"Rare",
+                        "count":1
+                    },
+                    {
+                        "rarity":"Ultra Rare",
+                        "count":1
+                    }
+                ]
+            },
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":7
+                    },
+                    {
+                        "rarity":"Rare",
+                        "count":1
+                    },
+                    {
+                        "rarity":"Secret Rare",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+}

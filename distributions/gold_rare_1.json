@@ -1,0 +1,14 @@
+{
+    "name": "gold_rare_1",
+        "array":[
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Gold Rare",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+}
